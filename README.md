@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taran Raj
+- 👋 Hi, I’m Taran Raj.
 - 👀 I’m interested in pursuing software engineering or quantum computing.
 - 📫 How to reach me: taranraj17@gmail.com
 - 😄 Pronouns: He/Him
