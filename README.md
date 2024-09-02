@@ -2,7 +2,7 @@
 - 👀 I’m interested in pursuing software engineering or quantum computing.
 - 📫 How to reach me: taranraj17@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The caledar emjoi on the iPhone contains my birthday.
+- ⚡ Fun fact: The caledar emoji on the iPhone contains my birthday.
 
 <!---
 taran-r/taran-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
