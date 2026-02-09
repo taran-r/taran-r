@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Taran Raj.
-- 👀 I’m interested in pursuing SWE or AI/ML.
-- 📫 How to reach me: tarankraj@outlook.com
-- ⚡ Fun fact: The calendar emoji on the iPhone contains my birthday.
+👋 Hi, I’m Taran Raj, a CS student at the University of Florida 🐊
+
+I’m interested in AI/ML and SWE, and I enjoy building secure and efficient systems.
+
+📫 Reach me at: [tarankraj@outlook.com](mailto:tarankraj@outlook.com)
+
+🔗 Links  
+- [Personal Portfolio](https://taran-r.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/taranraj/)
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,vscode,github)](https://skillicons.dev)
 
