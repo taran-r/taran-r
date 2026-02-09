@@ -9,6 +9,7 @@ I’m interested in AI/ML and SWE, and I enjoy building secure and efficient sys
 - [LinkedIn](https://www.linkedin.com/in/taranraj/)
 
 👨🏻‍💻 My Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,vscode,github)](https://skillicons.dev)
 
 <!---
